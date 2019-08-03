@@ -4,8 +4,18 @@
 
 ### 2019年
 
+#### 8月
+
+* [LeetCode - 机器人能否返回原点](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484042&idx=1&sn=a200d14c4055b50d22d9047d90ac2af9&chksm=eb356958dc42e04e6eea82b28c892e674d4864b1261ddd2fd87eafd9d3c1e877f3f3c389248b&token=2135618401&lang=zh_CN#rd)
+* [LeetCode - 重复 N 次的元素](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484041&idx=1&sn=e6d765af869c57227029d78be869f23d&chksm=eb35695bdc42e04da488ce5d40fb6a32c34fb671342dc75e61c6dff813beb5faff807526c052&token=2135618401&lang=zh_CN#rd)
+* [LeetCode - 先序遍历构造二叉树](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484040&idx=1&sn=6b4d8deb9a4ad822b858d195e94278dd&chksm=eb35695adc42e04c822710446d3d0ced0ebdef63533deeb770fb256d626fbd8217d9a8aac4d4&token=2135618401&lang=zh_CN#rd)
+
 #### 7月
 
+* [LeetCode - 按奇偶排序数组](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484039&idx=1&sn=31d293cf0919159100928d26c20f96ba&chksm=eb356955dc42e04346be912aadb278e23ff210afea6d7f6bfeca31508e5e6b83abe8f969b18c&token=2135618401&lang=zh_CN#rd)
+* [LeetCode - 有序数组的平方](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484038&idx=1&sn=2694962217d047f425022c3bc774363a&chksm=eb356954dc42e042864e973b67a80e05f219707ea7bef1c39a57fd354766cf66f3b854fc65eb&token=2135618401&lang=zh_CN#rd)
+* [LeetCode - 查找和替换模式](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484011&idx=1&sn=47df5b99937fc557a2d50a4e5fe9a22e&chksm=eb3569b9dc42e0af0398529a35747f948f462060c3a9ab57149ebe6d56f3329457873271eeb5&token=2135618401&lang=zh_CN#rd)
+* [东野圭吾 - 圣女的救济（上](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484006&idx=1&sn=207473e105bfd55fe06bd57537329694&chksm=eb3569b4dc42e0a270263a83b55bc095462354cdfe3930e013e8148ccd644ad2d286a6632fd5&token=2135618401&lang=zh_CN#rd)
 * [LeetCode - 二叉树剪枝](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247483999&idx=1&sn=b8b47975f0a80fcf242909eeb23d85a2&chksm=eb35698ddc42e09bf497c768353c8df98a29c3bdb4f14d375234aef7a79ff7d8c050e9bf6c8f&token=1268080351&lang=zh_CN#rd)
 * [LeetCode - 所有可能的满二叉树](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247483994&idx=1&sn=d1523ad353abd137f4df8837ca690c3a&chksm=eb356988dc42e09ea7132885aa9fc6bc8c0b1e7028d4cb089429ef7f6b64a93ea6ade11db769&token=1268080351&lang=zh_CN#rd)
 * [LeetCode - 增减字符串匹配](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247483989&idx=1&sn=77a509f8482218b4e4fe8b4c3cd32ed9&chksm=eb356987dc42e091036412b9665c34f19d08df454e1de1168771dc0a305c83d8184363ae647c&token=1268080351&lang=zh_CN#rd)
