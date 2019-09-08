@@ -4,8 +4,18 @@
 
 ### 2019年
 
+#### 9月
+
+* [LeetCode - 汉明距离&灯泡开关](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484149&idx=1&sn=c9f3b4538aaa396a383dd373cad0225d&chksm=eb356927dc42e0312f3472d0afa2e2a4014c51c68ad631978e55d34b1653243715497e567635&token=893533205&lang=zh_CN#rd)
+
 #### 8月
 
+* [LeetCode - 整数转罗马数字](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484143&idx=1&sn=b2260cec8b140290803b1e59ca5acbda&chksm=eb35693ddc42e02b7666a23d1993c464d00aeb6d65d8fcfd07d4424a51bbd23896327b7bf46a&token=893533205&lang=zh_CN#rd)
+* [LeetCode - 罗马数字转整数](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484138&idx=1&sn=71ab3acb6f480d10c7989a6926312b2b&chksm=eb356938dc42e02ee91699512597e332f2d9793b8955d8b26819e842ffb198118cadd97e9da3&token=893533205&lang=zh_CN#rd)
+* [LeetCode - 最长公共前缀](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484133&idx=1&sn=dcbef1564d339aef2fd11d8647dbc1d8&chksm=eb356937dc42e02132c450da855fbe25f9daf96b678ae1cf34491e248581eb9ad471c70e64e8&token=893533205&lang=zh_CN#rd)
+* [LeetCode - 宝石与石头&转换成小写字母](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484128&idx=1&sn=550439eac7c370cc576c87a9547c447a&chksm=eb356932dc42e024799ad14e5cca5dcf71199732c450030e0331416d00e768899a462846699c&token=893533205&lang=zh_CN#rd)
+* [LeetCode - 有效的括号](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484122&idx=1&sn=24526cdfb7c64007b16c5bfeca3eb56a&chksm=eb356908dc42e01e50be68a50bf1491f38016372eec08121dfeb4ba29e7a1499dec51d02a3c8&token=893533205&lang=zh_CN#rd)
+* [LeetCode - 删除排序数组中的重复项](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484113&idx=1&sn=3395e50830bd8a8a186dc2c30ae53b40&chksm=eb356903dc42e01518163b054aa038bd34ab7cabde53a3296ee2595d523163c905ea587f42ba&token=893533205&lang=zh_CN#rd)
 * [LeetCode - 移除元素](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484112&idx=1&sn=858bf31a80ef83f890604a87159ee103&chksm=eb356902dc42e0142e33e471e7d02b523909a9d476145d2f964545ae28f83e268ada699148e8&token=58915028&lang=zh_CN#rd)
 * [LeetCode - 实现strStr()](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484111&idx=1&sn=d13529f9ffa345bade28540ad33927d1&chksm=eb35691ddc42e00b2be2d586a30cfcfbcf41914d24771670674233ac4b370d998bf568bf816a&token=58915028&lang=zh_CN#rd)
 * [LeetCode - 搜索插入位置](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484110&idx=1&sn=c2d8f444eda5c1fb8f0167c0755e113f&chksm=eb35691cdc42e00a994d9cdf6599524dea0c853e0a18a6ba424a0d022dbd87d54fc011a0616f&token=58915028&lang=zh_CN#rd)
