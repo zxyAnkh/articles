@@ -4,8 +4,26 @@
 
 ### 2019年
 
+#### 10月
+
+* [LeetCode - 翻转二叉树](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484228&idx=1&sn=92a06c62404e1d0e73b666473b7dc6ea&chksm=eb356896dc42e1800f778403dab2e51fb1618883ad19ddb885fde4ad6a6949021485bb99dda5&token=1189516352&lang=zh_CN#rd)
+* [LeetCode - 删除链表中的节点 & 移动零](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484223&idx=1&sn=61903333d09abd5bc6aa8b95e1d83c9f&chksm=eb3568eddc42e1fba4fb0b84722fc69ac46154f8b1d139302ac33eaf590ea1f073c6a8ba5d8e&token=1189516352&lang=zh_CN#rd)
+
 #### 9月
 
+* [LeetCode - 两个数组的交集](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484217&idx=1&sn=2fddbffbd17d8e252680525919d7f9b1&chksm=eb3568ebdc42e1fddfbf7c720597cacbd5398da0379032b644f9dfefebb7fd875737373b3af7&token=1189516352&lang=zh_CN#rd)
+* [LeetCode - 有效的字母异位词](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484212&idx=1&sn=cbe6bdb69383204f1a40a351d610d8e1&chksm=eb3568e6dc42e1f06e48d9d98d805b0e09832df65fd5f2f1a20eb5b8b6307cc8bbd61150a1ea&token=1189516352&lang=zh_CN#rd)
+* [LeetCode - 存在重复元素](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484207&idx=1&sn=c38e21a65d6df34135e774718e5b2cbd&chksm=eb3568fddc42e1eb259da54dd5e89c554ab796cfa66735a547ad99043e67b6fe47c5d10b49f9&token=1189516352&lang=zh_CN#rd)
+* [LeetCode - 反转链表](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484202&idx=1&sn=af6113143e0f971cb1a2be43cc99765d&chksm=eb3568f8dc42e1ee1fcaea3503940fb0c1b7c9abfcd9738d21fbe6b8ab21681fea76404f3ca3&token=1189516352&lang=zh_CN#rd)
+* [LeetCode - 两数之和②](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484197&idx=1&sn=335e808964f28c619933d9f6b5533433&chksm=eb3568f7dc42e1e153fa9955c405627c76603d8ab5184dfaee8088468c03931fd1503b35f853&token=1189516352&lang=zh_CN#rd)
+* [LeetCode - 整数反转](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484192&idx=1&sn=aeab0df7d15d37213162d4a6d22cfe43&chksm=eb3568f2dc42e1e4e0421993526f1a427af72895535a6570515da5539afd1e77d1026f821ee7&token=1189516352&lang=zh_CN#rd)
+* [LeetCode - Fizz Buzz](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484187&idx=1&sn=99db3e2b626743eeb749570159b7c834&chksm=eb3568c9dc42e1dff8394bfd08474d365b045c183372ee332ebd8bb7e837e3938c59a66ffe0a&token=1189516352&lang=zh_CN#rd)
+* [LeetCode - 盛最多水的容器](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484182&idx=1&sn=2c9e904535d43ebb4426ef94c489bb6e&chksm=eb3568c4dc42e1d27a7b55e925a23505eed356c47050e850a6d2822d160ae4fe86f09570d187&token=1189516352&lang=zh_CN#rd)
+* [LeetCode - 买卖股票的最佳时机](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484177&idx=1&sn=dc8a31604806835f78fbb84c0d6abdfe&chksm=eb3568c3dc42e1d5e956a614af2ef5d3aa32b9860de7dbea256ba99d89f503e3a696c0576f45&token=1189516352&lang=zh_CN#rd)
+* [LeetCode - 寻找重复数](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484170&idx=1&sn=9cebac473af162a9280a9908b948a44a&chksm=eb3568d8dc42e1ce4659db833d0a5980690fd6d22ef9b92cb80d1ad5f363cd30976e63c9882e&token=1189516352&lang=zh_CN#rd)
+* [LeetCode - 左叶子之和](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484164&idx=1&sn=01384bda2d1ef8a91d785a69da42ed74&chksm=eb3568d6dc42e1c01c3111e7b2e5d70bcc65836c9276116dcdbd49f7c463e8932e1aed1819a8&token=1189516352&lang=zh_CN#rd)
+* [LeetCode - 最长回文串](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484159&idx=1&sn=9705d9855009fb7c0fbba223bbacceed&chksm=eb35692ddc42e03b3c60b52874740d5cc2cea95fe3d24206071761dbdb55c6df7708f4700756&token=1189516352&lang=zh_CN#rd)
+* [LeetCode - 回文数](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484154&idx=1&sn=52c3a47c65a0f7e6c982f5cbbd370ac6&chksm=eb356928dc42e03ee8098962d2b9ddc526f529d36597cd512e167cef90c6cd151071aecacdf6&token=1189516352&lang=zh_CN#rd)
 * [LeetCode - 汉明距离&灯泡开关](https://mp.weixin.qq.com/s?__biz=MzI3MjMzNDUyNQ==&mid=2247484149&idx=1&sn=c9f3b4538aaa396a383dd373cad0225d&chksm=eb356927dc42e0312f3472d0afa2e2a4014c51c68ad631978e55d34b1653243715497e567635&token=893533205&lang=zh_CN#rd)
 
 #### 8月
